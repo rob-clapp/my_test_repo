@@ -1,5 +1,4 @@
 # my_test_repo
-Repository for testing my Git/GitHub setup, via Happy Git with R
+Repository for testing my Git/GitHub setup, via Happy Git with R.
 
-
-This is a new line from RStudio, hopefully verified. How about now?
+This is a new line from RStudio, hopefully verified.
